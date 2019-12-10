@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "5de34e6ba340b26daf799df9" }, "comments" : [ { "$oid" : "5de34ea5a340b26daf799dfa" } ], "name" : "shimla", "image" : "https://google.com/shimla/1.jpg", "cost" : 5000, "description" : "awesome", "author" : { "id" : { "$oid" : "5de34d60a340b26daf799df8" }, "username" : "saurabh" }, "createdAt" : { "$date" : "2019-12-01T10:53:55.263+0530" }, "__v" : 1 }
